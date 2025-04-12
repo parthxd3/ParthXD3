@@ -105,7 +105,7 @@ Git | Photoshop | Arduino | Linux | VS Code |
 
 ---
 
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/xd3parth.png)
+![TryHackMe Badge](<img src="https://tryhackme-badges.s3.amazonaws.com/parthxd3.png"/>)
 
 ---
 
