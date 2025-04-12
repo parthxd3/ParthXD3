@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/XD3Parth/XD3Parth/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://xd3labs.in)
 
-<h1 align="center">Hi 👋, I'm XD3Parth | XD3Labs Startup | CompTIA Security+ Certified</h1>
-<h3 align="center">Developer | Gamer | Photographer | Ethical Hacker | Cybersecurity Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Parth | XD3Labs Startup | CompTIA Security+ Certified</h1>
+<h3 align="center">Python Developer | Gamer | Ethical Hacker | Cybersecurity Enthusiast | Nature Photography</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xd3parth&label=Profile%20views&color=0e75b6&style=flat" alt="xd3parth" />
@@ -28,9 +28,11 @@ I'm known for my dedication and leadership, and while I stay grounded, I always 
 
 ## 🚀 Current Focus
 
-- 🔐 CyberSecurity | Ethical Hacking | Linux | Python
-- 🎮 Roleplay Servers | CTFs | Pentesting Labs
+- 🔐 CyberSecurity | Ethical Hacking | Linux | Python | IOT
+- 🎮 Gaming | CTFs | Pentesting Labs
 - 🌱 Learning daily, contributing actively
+- 🖨️ 3d Printing & Designing
+- 🎧 Audiophile
 
 ---
 
