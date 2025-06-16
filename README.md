@@ -4,10 +4,10 @@
 <h3 align="center">Python Developer | Gamer | Ethical Hacker | Cybersecurity Enthusiast | Nature Photography</h3>
 
 ## XD3Labs
-X = Xtreme
-D = Defense
-3 = 3 Pillars of Cyber Security (CIA TRIAD)
-Labs = Innovation
+X = Xtreme |
+D = Defense |
+3 = 3 Pillars of Cyber Security (CIA TRIAD) |
+Labs = Innovation 
 
 `Built to Break Limits. Trained to Stop Threats.`
 `“Confidentiality. Integrity. Availability. Defended at the Xtreme.”`
