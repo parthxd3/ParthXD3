@@ -90,13 +90,13 @@ Git | Photoshop | Arduino | Linux | VS Code |
 ## 📈 GitHub Stats
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xd3parth&show_icons=true&theme=tokyonight&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parthxd3&show_icons=true&theme=tokyonight&layout=compact" alt="Top Langs" />
 </p>
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=xd3parth&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=parthxd3&show_icons=true&theme=tokyonight" alt="Stats" />
 </p>
 <p float="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xd3parth&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthxd3&theme=tokyonight" alt="Streak Stats" />
 </p>
 
 ---
