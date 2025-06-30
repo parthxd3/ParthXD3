@@ -122,3 +122,23 @@ Git | Photoshop | Arduino | Linux | VS Code |
 
 > ⚡ Fun fact: I'm *very* sarcastic 😄  
 > 🌐 Domain: [www.xd3labs.in](https://www.xd3labs.in)
+
+# 🛡️ XD3Labs — Built to Break Limits. Trained to Stop Threats. 💥
+
+> “**Confidentiality. Integrity. Availability.**  
+> 🛡️ *Defended at the Xtreme.*”
+
+---
+
+### 🔰 What is **XD3Labs**?
+
+**X = Xtreme**  
+**D = Defense**  
+**3 = The Three Pillars of Cybersecurity** — 🧩 *Confidentiality*, 🧪 *Integrity*, 🕓 *Availability*  
+**Labs = Innovation Hub** 🧠⚙️
+
+> **XD3Labs** is a cybersecurity-driven innovation lab focused on building powerful, ethical, and open-source tools that push the boundaries of what's possible in offensive and defensive security.
+
+---
+
+
